@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="hello">hello</string>
+
+    <string name="loginhere">Already have an account<u>login</u> here</string>
+    <string name="signuphere">create new account sign up</string>
+    <array name="countries">
+        <item>USA</item>
+        <item>Canada</item>
+    </array>
+
+</resources>
